@@ -5,7 +5,7 @@
  */
 namespace Eriocnemis\CatalogSortRating\Plugin\Catalog\Block\Product\ProductList;
 
-use Magento\Framework\Data\Collection;
+use Magento\Framework\Data\Collection\AbstractDb as Collection;
 use Magento\Catalog\Block\Product\ProductList\Toolbar as Subject;
 
 /**
